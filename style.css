@@ -1,0 +1,34 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+nav #navbarNav ul li {
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+    margin-left: 2em;
+    font-size: 0.9em;
+}
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
+.other li a{
+    background-color: #F2F2F2;
+    color: black;
+    border: 0px;
+    font-size: medium;
+    padding: 0.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+:hover #see{
+    color: black;
+}
+.options{
+    font-size: large;
+    padding: 0.75em;
+}
+.liste article {
+    margin-top: 2em;
+}
+.border-top-dark{
+    border-top : 1px solid #F2F2F2
+}
